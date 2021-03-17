@@ -34,9 +34,6 @@
 <img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 <br />
 <br />
-
-<details>
-<summary>:zap: GitHub Stats</summary>
 <br>
 <table width="100%">
 <tr>
@@ -48,6 +45,5 @@
 </td>
 </tr>
 </table>
-</details>
 
 
