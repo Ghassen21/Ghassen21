@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'Ghassen Ayed </h1>
-<h3 align="center" style>Motivated Full Stack Developer .Able to quickly learn and master new technologies</h3>
+<h1 align="center">Hi 👋, I'm Ghassen Ayed  </h1>
+<h3 align="center" style>Motivated Full Stack Developer && Able to quickly learn and maste new technologies</h3>
 
 <p align="center" style="margin : 10px auto;">
 <a href="https://www.linkedin.com/in/ghassen-ayed-560236137/" target="blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ghassen Ayed" height="30" width="30" /></a>
