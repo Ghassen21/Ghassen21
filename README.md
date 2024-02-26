@@ -17,6 +17,14 @@
 
 ### Languages and Tools:
 <p align="left">
+
+<img width="40" height="40" alt="Apple" src="./icons/apple.svg"/>
+<img width="40" height="40" alt="Xcode" src="./icons/xcode.svg"/>
+<img width="40" height="40" alt="Swift" src="./icons/swift.svg"/>
+<img width="40" height="40" alt="Flutter" src="./icons/flutter.svg"/>
+<img width="40" height="40" alt="Android" src="./icons/android.svg"/>
+<img width="40" height="40" alt="Iphone" src="./icons/iphone.svg"/>
+<img width="40" height="40" alt="Objective_C" src="./icons/sdk-objectivec.svg"/>
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
