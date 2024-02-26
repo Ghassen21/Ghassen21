@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghassen Ayed  </h1>
-<h3 align="center" style>Motivated Full Stack Developer </h3>
-<h3 align="center" style> Able to quickly learn && master new technologies</h3>
+<h3 align="center" style> Mobile & Web  Developer Engineer </h3>
+<h3 align="center" style> Proficient in mobile app creation and web development, I excel in collaborative environments, working closely with diverse teams to ensure client satisfaction, and timely delivery. I am committed to delivering high-quality results within tight deadlines both independently and as part of a team.</h3>
 
 <p align="center" style="margin : 10px auto;">
 <a href="https://www.linkedin.com/in/ghassen-ayed-560236137/" target="blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ghassen Ayed" height="30" width="30" /></a>
